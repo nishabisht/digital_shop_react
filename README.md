@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 <div>
 <h4>Home page of digital shop website</h4>
-<img src="./public/homePage.jpg" alt="homepage">
+<img src="./public/homepage.jpg" alt="homepage">
 </div>
 
 <div>
