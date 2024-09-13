@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<div>
+<h4>Home page of digital shop website</h4>
+<img src="./public/homePage.jpg" alt="homepage">
+</div>
+
+<div>
+<h4>Login page</h4>
+<img src="./public/login.jpg" alt="homepage">
+</div>
+
 ## Available Scripts
 
 In the project directory, you can run:
