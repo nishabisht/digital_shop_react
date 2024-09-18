@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/digital_shop_react/static/css/main.db62923b.css",
+    "main.js": "/digital_shop_react/static/js/main.ebfc59a1.js",
+    "static/js/453.5b1cc0ef.chunk.js": "/digital_shop_react/static/js/453.5b1cc0ef.chunk.js",
+    "static/media/monitor.jpg": "/digital_shop_react/static/media/monitor.891f60fa41dd41b7ff65.jpg",
+    "static/media/keyboard.jpg": "/digital_shop_react/static/media/keyboard.19a86bc1d5bdbcb79f91.jpg",
+    "static/media/pen.jpg": "/digital_shop_react/static/media/pen.adac21c55ab522797a34.jpg",
+    "index.html": "/digital_shop_react/index.html",
+    "main.db62923b.css.map": "/digital_shop_react/static/css/main.db62923b.css.map",
+    "main.ebfc59a1.js.map": "/digital_shop_react/static/js/main.ebfc59a1.js.map",
+    "453.5b1cc0ef.chunk.js.map": "/digital_shop_react/static/js/453.5b1cc0ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db62923b.css",
+    "static/js/main.ebfc59a1.js"
+  ]
+}
